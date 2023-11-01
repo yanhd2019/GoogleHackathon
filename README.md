@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="/Users/zhuyuchen/Desktop/PDF/copycabra.jpeg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">project_title</h3>
@@ -43,7 +43,8 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+EconAnimate
+Description: EconAnimate is your friendly AI tutor that brings economic concepts to life with engaging and informative videos. Whether you're a student, a professional, or just curious about the world around you, EconAnimate can help you understand economic concepts in a fun and easy way.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
