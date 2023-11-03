@@ -1,6 +1,7 @@
 # GoogleHackathon
-![LogoEL](https://github.com/yanhd2019/GoogleHackathon/assets/149416928/f9b8c193-8467-4989-b2bc-43a5e5ea1ec2)
-
+<p align="center">
+  <img src="https://github.com/yanhd2019/GoogleHackathon/assets/149416928/f9b8c193-8467-4989-b2bc-43a5e5ea1ec2" width="388">
+</p>
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
