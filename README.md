@@ -38,55 +38,26 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Have you ever tried to dive into the world of economics, only to find yourself overwhelmed by the countless graphs and complex notes? Well, don't worry! Meet Econimate, your friendly AI tutor that makes learning economic concepts a breeze. Whether you're a student, a professional, or simply curious about the world of economics, Econimate is here to help you grasp these concepts in a fun and easy-to-understand manner through engaging and informative videos.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-### Built With
-
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+Not sure if there exists any pre-requisites, delete if not appropriate.
+
   ```sh
   npm install npm@latest -g
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
+1. Detailing the steps for installation
+2. Install…
    ```js
    const API_KEY = 'ENTER YOUR API';
    ```
@@ -98,13 +69,29 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+To use Econimate, simply run the provided code and enter your query when prompted. Econimate will then generate a video that explains the concept in a clear and concise way, using graphs and audio to help you understand.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Here are some examples of how you can use Econimate:
+To learn about a new economic concept, such as inflation or supply and demand.
+To get help with a specific economics assignment or problem.
+To stay up-to-date on the latest economic news and research.
+Econimate is a great resource for anyone who wants to learn more about economics, regardless of their level of expertise. However, please keep in mind that it is still in beta and may not be able to answer all queries perfectly. So, please be patient and understanding as we continue to develop and improve Econimate.
+
+An example of potential usage can be seen in this video. Example Usage Video
+
+For more examples, please refer to the Example Usage Video.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Limitations
 
+Here are some known problems and limitations of the project that we strive to resolve in future implementations:
+
+Model (4th Generation) not sufficiently trained to provide figures for all types of graphs, especially for general Economic Concepts. Furthermore, there is a tendency for the LLM to not recognise more advanced Economics conepts. We will continue developing the model through tuning with different LLMs and machine learning methods. Currently, the Beta Version only supports creating a single graph for the video created. In future developments, we will enhance this feature to provide multiple graphs with smooth transitions between them. To make the lessons more engaging, additional features such as animations and virtual human interactions will be implemented.
+
+Known limitations are documented in this video. Usage Ex1
+
+See the Known Limitations Video for a full list of proposed features (and known issues).
 
 <!-- ROADMAP -->
 ## Roadmap
