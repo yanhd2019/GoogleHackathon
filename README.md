@@ -44,29 +44,32 @@ Have you ever tried to dive into the world of economics, only to find yourself o
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally. To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Importing Libraries
 
-Not sure if there exists any pre-requisites, delete if not appropriate.
-
-  ```sh
-  npm install npm@latest -g
-  ```
-
-### Installation
-
-1. Install…
+1. Install the client library and import necessary modules.
    ```js
-   pip install google-generativeai
-   pip install playsound
-   pip install playsound
-   pip install gTTS
-   pip install moviepy
+    from functions import *
+    import google.generativeai as palm
+    import base64
+    import json
+    import pprint
+    import cv2
+    from moviepy.editor import ImageClip, AudioFileClip, concatenate_audioclips
+    import subprocess
+    import gtts
+    from playsound import playsound
+    from IPython.display import Audio
+    from gtts import gTTS
+    import tempfile
+    import spacy
+    import subprocess
+    import os
+    import shutil
    ```
-2.We utilized Google's Palm2 to assist in generating both the explanation and the code for creating a reference graph. To access the Palm2 API, you can obtain an API_KEY from:
+2. We utilized Google's Palm2 to assist in generating both the explanation and the code for creating a reference graph. To access the Palm2 API, you can obtain an API_KEY from [here](https://console.cloud.google.com/welcome?hl=ko&_ga=2.223201821.704841096.1699130066-1569134934.1698429316&_gac=1.183110100.1699130066.CjwKCAjw15eqBhBZEiwAbDomEnuAMRbTYfGsjtAzJWzYqBW2-cCfpdz_ijcF0VY5xhFDL75tMDxEWhoCvMEQAvD_BwE&project=storied-radius-362713).
 
-https://console.cloud.google.com/welcome?hl=ko&_ga=2.223201821.704841096.1699130066-1569134934.1698429316&_gac=1.183110100.1699130066.CjwKCAjw15eqBhBZEiwAbDomEnuAMRbTYfGsjtAzJWzYqBW2-cCfpdz_ijcF0VY5xhFDL75tMDxEWhoCvMEQAvD_BwE&project=storied-radius-362713
+
   ```
   const API_KEY = 'ENTER YOUR API';
    ```
@@ -78,13 +81,14 @@ https://console.cloud.google.com/welcome?hl=ko&_ga=2.223201821.704841096.1699130
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-To use Econimate, simply run the provided code and enter your query when prompted. Econimate will then generate a video that explains the concept in a clear and concise way, using graphs and audio to help you understand.
+To use Econimate, simply run the provided code in your local Python environment and enter your Economics doubts when prompted. Econimate will then generate a video that explains the concept in a clear and concise way, using graphs and audio to make your learning easy and fun.
 
 Here are some examples of how you can use Econimate:
-To learn about a new economic concept, such as inflation or supply and demand.
-To get help with a specific economics assignment or problem.
-To stay up-to-date on the latest economic news and research.
-Econimate is a great resource for anyone who wants to learn more about economics, regardless of their level of expertise. However, please keep in mind that it is still in beta and may not be able to answer all queries perfectly. So, please be patient and understanding as we continue to develop and improve Econimate.
+1. To learn about a new economic concept, such as inflation or supply and demand.
+2. To get help with a specific economics assignment or problem.
+3. To stay up-to-date on the latest economic news and research.
+
+Econimate is a great resource for anyone who wants to learn more about economics, regardless of the level of expertise. However, please keep in mind that it is still in beta and may not be able to answer all queries perfectly. So, please be patient and understanding as we continue to develop and improve Econimate.
 
 An example of potential usage can be seen in this video. Example Usage Video
 
