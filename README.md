@@ -4,7 +4,7 @@
 </p>
 
 
-<h3 align="center">project_title</h3>
+<h3 align="center">ECONIMATE</h3>
 
 
 <!-- TABLE OF CONTENTS -->
@@ -40,8 +40,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-EconAnimate
-Description: EconAnimate is your friendly AI tutor that brings economic concepts to life with engaging and informative videos. Whether you're a student, a professional, or just curious about the world around you, EconAnimate can help you understand economic concepts in a fun and easy way.
+Have you ever tried to dive into the world of economics, only to find yourself overwhelmed by the countless graphs and complex notes? Well, don't worry! Meet Econimate, your friendly AI tutor that makes learning economic concepts a breeze. Whether you're a student, a professional, or simply curious about the world of economics, Econimate is here to help you grasp these concepts in a fun and easy-to-understand manner through engaging and informative videos.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
