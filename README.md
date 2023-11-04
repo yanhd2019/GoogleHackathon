@@ -59,7 +59,15 @@ Not sure if there exists any pre-requisites, delete if not appropriate.
 1. Detailing the steps for installation
 2. Install…
    ```js
-   const API_KEY = 'ENTER YOUR API';
+   pip install google-generativeai
+   pip install playsound
+   pip install playsound
+   pip install gTTS
+   pip install moviepy
+   ```
+3. Get an API_KEY from https://console.cloud.google.com/welcome?hl=ko&_ga=2.223201821.704841096.1699130066-1569134934.1698429316&_gac=1.183110100.1699130066.CjwKCAjw15eqBhBZEiwAbDomEnuAMRbTYfGsjtAzJWzYqBW2-cCfpdz_ijcF0VY5xhFDL75tMDxEWhoCvMEQAvD_BwE&project=storied-radius-362713
+  ```
+  const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
