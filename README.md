@@ -2,12 +2,7 @@
 <p align="center">
   <img src="https://github.com/yanhd2019/GoogleHackathon/assets/149416928/f9b8c193-8467-4989-b2bc-43a5e5ea1ec2" width="388">
 </p>
-<!-- PROJECT LOGO -->
-<br />
-<div align="center">
-  <a href="https://github.com/github_username/repo_name">
-    <img src="/Users/zhuyuchen/Desktop/PDF/copycabra.jpeg" alt="Logo" width="80" height="80">
-  </a>
+
 
 <h3 align="center">project_title</h3>
 
