@@ -109,6 +109,8 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <!-- ROADMAP -->
 ## Roadmap
+<img width="1470" alt="Screenshot 2023-11-03 at 8 25 09 PM" src="https://github.com/yanhd2019/GoogleHackathon/assets/149416928/685882ca-dfa0-47a3-9c02-c448ecc8e2be">
+
 
 - [ ] Feature 1
 - [ ] Feature 2
@@ -151,7 +153,11 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Haodong Yan - hyan3@andrew.cmu.edu
+Sewon Hong - sewonh@andrew.cmu.edu
+Yuchen Zhu - yzhu7@andrew.cmu.edu
+Jiayuan Ye - jye3@andrew.cmu.edu
+Yukta Butala - ybutala@andrew.cmu.edu
 
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
