@@ -87,10 +87,7 @@ To use Econimate, simply run the provided code in your local Python environment 
 
 Have a look at how amazing videos Econimate generates:
 
-
-https://github.com/yanhd2019/GoogleHackathon/assets/149416928/81acbb2e-6b58-441a-bf58-4aca8f8e7bf3
-
-
+https://github.com/yanhd2019/GoogleHackathon/assets/149416928/68382afd-158e-41e1-93e0-fe67ab864576
 
 Here are some examples of how you can use Econimate:
 1. To learn about a new economic concept, such as inflation or supply and demand.
