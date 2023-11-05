@@ -88,9 +88,8 @@ Here are some examples of how you can use Econimate:
 
 Econimate is a great resource for anyone who wants to learn more about economics, regardless of the level of expertise. However, please keep in mind that it is still in beta and may not be able to answer all queries perfectly. So, please be patient and understanding as we continue to develop and improve Econimate.
 
-An example of potential usage can be seen in this video. Example Usage Video
+An example of potential usage can be seen in [this video](https://drive.google.com/file/d/11ge-2Gi4svGetE5dMaKMrKtyzyRVyzeH/view?usp=sharing).
 
-For more examples, please refer to the Example Usage Video.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
