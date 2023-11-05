@@ -101,13 +101,18 @@ See the Known Limitations Video for a full list of proposed features (and known 
 
 <!-- ROADMAP -->
 ## Roadmap
-<img width="1470" alt="Screenshot 2023-11-03 at 8 25 09 PM" src="https://github.com/yanhd2019/GoogleHackathon/assets/149416928/685882ca-dfa0-47a3-9c02-c448ecc8e2be">
+ Stage 1:
+![WhatsApp Image 2023-11-03 at 20 26 05](https://github.com/yanhd2019/GoogleHackathon/assets/149416928/6d7cb024-936d-4511-bfd3-171d8e2e9fea)
+
+At present, we've set up a process where you can ask your economics questions to our chatbot, and in return, you'll receive a video with the answers that will be downloaded to your local files. You can check out the steps we've followed in the diagram above, and you can access the code to see how it all works.
+
+A pivotal milestone in reaching this stage involved training the Palm2 API using our prompts. If you're interested in seeing how this was accomplished, you can access the instructional video that demonstrates the process. It's a great way to gain insight into the behind-the-scenes work that contributes to the chatbot's performance.
 
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+
+Stage 2: 
+
+Our next exciting endeavor is to develop a chatbot-like interface that allows you to ask your questions directly and receive video answers in real-time. We're working diligently to bring this feature to life, making the process of accessing economic insights even more seamless and convenient for you. Stay tuned for our upcoming enhancements!
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
