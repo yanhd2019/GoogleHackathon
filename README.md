@@ -134,12 +134,13 @@ Our next exciting endeavor is to develop a chatbot-like interface that allows yo
 
 Created with ❤️ by:
 
-Haodong Yan - hyan3@andrew.cmu.edu     
-Sewon Hong - sewonh@andrew.cmu.edu     
-Yuchen Zhu - yzhu7@andrew.cmu.edu   
-Jiayuan Ye - jye3@andrew.cmu.edu      
-Yukta Butala - ybutala@andrew.cmu.edu    
+Haodong Yan - hyan3@andrew.cmu.edu (Technical Integration)    
+Sewon Hong - sewonh@andrew.cmu.edu (Technical Integration)
+Yuchen Zhu - yzhu7@andrew.cmu.edu  (AI Training)
+Jiayuan Ye - jye3@andrew.cmu.edu   (Prompt Engineering)
+Yukta Butala - ybutala@andrew.cmu.edu (Report Writing)
 
+We are excited to continue this project for the rest of our Experiential Learning Programme.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
