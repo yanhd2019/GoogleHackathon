@@ -74,6 +74,13 @@ Have you ever tried to dive into the world of economics, only to find yourself o
 
 To use Econimate, simply run the provided code in your local Python environment and enter your Economics doubts when prompted. Econimate will then generate a video that explains the concept in a clear and concise way, using graphs and audio to make your learning easy and fun.
 
+Have a look at how amazing videos Econimate generates:
+
+
+https://github.com/yanhd2019/GoogleHackathon/assets/149416928/81acbb2e-6b58-441a-bf58-4aca8f8e7bf3
+
+
+
 Here are some examples of how you can use Econimate:
 1. To learn about a new economic concept, such as inflation or supply and demand.
 2. To get help with a specific economics assignment or problem.
