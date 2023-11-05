@@ -107,7 +107,7 @@ See the Known Limitations Video for a full list of proposed features (and known 
 
 At present, we've set up a process where you can ask your economics questions to our chatbot, and in return, you'll receive a video with the answers that will be downloaded to your local files. You can check out the steps we've followed in the diagram above, and you can access the code to see how it all works.
 
-A pivotal milestone in reaching this stage involved training the Palm2 API using our prompts. If you're interested in seeing how this was accomplished, you can access the instructional video that demonstrates the process. It's a great way to gain insight into the behind-the-scenes work that contributes to the chatbot's performance.
+A pivotal milestone in reaching this stage involved training the Palm2 API using our prompts. If you're interested in seeing how this was accomplished, you can access the [video](https://drive.google.com/file/d/1GvOEAXIKn1mD6oyD3MrFSpLnq0bmV3ZA/view?usp=sharing) that demonstrates the process. It's a great way to gain insight into the behind-the-scenes work that contributes to the chatbot's performance.
 
 
 
