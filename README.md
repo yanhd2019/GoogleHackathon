@@ -99,9 +99,6 @@ Here are some known problems and limitations of the project that we strive to re
 
 Model (4th Generation) not sufficiently trained to provide figures for all types of graphs, especially for general Economic Concepts. Furthermore, there is a tendency for the LLM to not recognise more advanced Economics conepts. We will continue developing the model through tuning with different LLMs and machine learning methods. Currently, the Beta Version only supports creating a single graph for the video created. In future developments, we will enhance this feature to provide multiple graphs with smooth transitions between them. To make the lessons more engaging, additional features such as animations and virtual human interactions will be implemented.
 
-Known limitations are documented in this video. Usage Ex1
-
-See the Known Limitations Video for a full list of proposed features (and known issues).
 
 <!-- ROADMAP -->
 ## Roadmap
