@@ -121,11 +121,11 @@ Our next exciting endeavor is to develop a chatbot-like interface that allows yo
 <!-- CONTACT -->
 ## Contact
 
-Haodong Yan - hyan3@andrew.cmu.edu
-Sewon Hong - sewonh@andrew.cmu.edu
-Yuchen Zhu - yzhu7@andrew.cmu.edu
-Jiayuan Ye - jye3@andrew.cmu.edu
-Yukta Butala - ybutala@andrew.cmu.edu
+Haodong Yan - hyan3@andrew.cmu.edu     
+Sewon Hong - sewonh@andrew.cmu.edu     
+Yuchen Zhu - yzhu7@andrew.cmu.edu   
+Jiayuan Ye - jye3@andrew.cmu.edu      
+Yukta Butala - ybutala@andrew.cmu.edu    
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -135,8 +135,7 @@ Yukta Butala - ybutala@andrew.cmu.edu
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+In our journey through this hackathon, we've received invaluable support and guidance from some remarkable individuals. Special gratitude goes out to Josh Gordon for his invaluable introduction to the Palm2 API, which played a pivotal role in our project. We also want to express our appreciation to the entire Google team for their dedicated guidance and mentorship over the past week. We would like to extend our heartfelt thanks to Prof. Ganesh Mani for his unwavering support and encouragement. Your collective efforts and insights have been instrumental in our success. Thank you all for your contributions to this incredible experience!
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
