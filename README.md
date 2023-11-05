@@ -104,7 +104,9 @@ Model (4th Generation) not sufficiently trained to provide figures for all types
 ## Roadmap
  Stage 1:
  
-![WhatsApp Image 2023-11-03 at 20 26 05](https://github.com/yanhd2019/GoogleHackathon/assets/149416928/6d7cb024-936d-4511-bfd3-171d8e2e9fea)
+<p align="center">
+  <img src="media/LogoEL.jpeg" width="388">
+</p>
 
 At present, we've set up a process where you can ask your economics questions to our chatbot, and in return, you'll receive a video with the answers that will be downloaded to your local files. You can check out the steps we've followed in the diagram above, and you can access the code to see how it all works.
 
