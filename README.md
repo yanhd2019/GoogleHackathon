@@ -72,8 +72,8 @@ Have you ever tried to dive into the world of economics, only to find yourself o
 3. We utilized Google's Palm2 to assist in generating both the explanation and the code for creating a reference graph. To access the Palm2 API, you can obtain an API_KEY from [here](https://console.cloud.google.com/welcome?hl=ko&_ga=2.223201821.704841096.1699130066-1569134934.1698429316&_gac=1.183110100.1699130066.CjwKCAjw15eqBhBZEiwAbDomEnuAMRbTYfGsjtAzJWzYqBW2-cCfpdz_ijcF0VY5xhFDL75tMDxEWhoCvMEQAvD_BwE&project=storied-radius-362713).
 
 
-  ```
-  const API_KEY = 'ENTER YOUR API';
+   ```js
+    const API_KEY = 'ENTER YOUR API';
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
