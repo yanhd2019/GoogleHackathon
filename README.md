@@ -119,6 +119,8 @@ Our next exciting endeavor is to develop a chatbot-like interface that allows yo
 <!-- CONTACT -->
 ## Contact
 
+Created with ❤️ by:
+
 Haodong Yan - hyan3@andrew.cmu.edu     
 Sewon Hong - sewonh@andrew.cmu.edu     
 Yuchen Zhu - yzhu7@andrew.cmu.edu   
