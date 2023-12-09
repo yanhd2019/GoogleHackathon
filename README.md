@@ -89,6 +89,9 @@ Have a look at how amazing videos Econimate generates:
 
 https://github.com/yanhd2019/GoogleHackathon/assets/149416928/68382afd-158e-41e1-93e0-fe67ab864576
 
+https://github.com/yanhd2019/GoogleHackathon/assets/149416928/05b49def-8203-4509-ada1-98aa26b73093
+
+
 Here are some examples of how you can use Econimate:
 1. To learn about a new economic concept, such as inflation or supply and demand.
 2. To get help with a specific economics assignment or problem.
